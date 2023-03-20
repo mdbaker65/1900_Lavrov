@@ -1,4 +1,4 @@
-# DNA Extraction
+# DNA Extraction 
 1. Starting DNA/RNA Quantification
 2. Bioanalzyer results 
 3. Extraction kit, if facility extracted
