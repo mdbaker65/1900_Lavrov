@@ -1,2 +1,0 @@
-# Read number
-# Read quality
